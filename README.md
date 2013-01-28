@@ -12,5 +12,5 @@
 Add to your web site or blog like so:
 
 <pre><code>
-<iframe src="http://svinkle.github.com/twitch_tv_widget/?username=[YOUR USERNAME]" width="100%" height="64" frameborder="0"></iframe>
+&lt;iframe src="http://svinkle.github.com/twitch_tv_widget/?username=[YOUR USERNAME]" width="100%" height="64" frameborder="0"&gt;&lt;/iframe&gt;
 </code></pre>
