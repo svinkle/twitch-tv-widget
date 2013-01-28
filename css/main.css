@@ -1,0 +1,78 @@
+/* ==========================================================================
+   HTML5 Boilerplate styles - h5bp.com (generated via initializr.com)
+   ========================================================================== */
+
+html,button,input,select,textarea{color:#222}body{font-size:1em;line-height:1.4}::-moz-selection{background:#b3d4fc;text-shadow:none}::selection{background:#b3d4fc;text-shadow:none}hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0}img{vertical-align:middle}fieldset{border:0;margin:0;padding:0}textarea{resize:vertical}.chromeframe{margin:.2em 0;background:#ccc;color:#000;padding:.2em 0}
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.twitch-widget {		
+	background: url(../img/TwitchSocialIcon_64px.png) 0 0 no-repeat;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;  
+	color: #262626;
+	display: block;	
+	font-size: 0.9em;
+	height: 64px;
+	margin: 0;
+	padding: 0 0 0 74px;	
+	text-decoration: none;
+	width: 100%;	
+}
+
+.twitch-widget a {
+	color: #6441A5;
+	text-decoration: none;
+}
+
+.twitch-widget a:hover {
+	text-decoration: underline;
+}
+
+.twitch-widget ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.user-name {	
+	font-size: 1.4em;
+	font-weight: bold;
+}
+
+.online {
+	background: red;
+	border-radius: 5px;
+	display: inline-block;
+	height: 10px;
+	width: 10px;
+}
+
+.viewers {
+	color: #666;
+	display: block;
+	font-size: 0.75em;	
+}
+
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
+
+@media only screen and (min-width: 35em) {
+
+}
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+.ir{background-color:transparent;border:0;overflow:hidden;*text-indent:-9999px}.ir:before{content:"";display:block;width:0;height:150%}.hidden{display:none!important;visibility:hidden}.visuallyhidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.visuallyhidden.focusable:active,.visuallyhidden.focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}.invisible{visibility:hidden}.clearfix:before,.clearfix:after{content:" ";display:table}.clearfix:after{clear:both}.clearfix{*zoom:1}
+
+/* ==========================================================================
+   Print styles
+   ========================================================================== */
+
+@media print{*{background:transparent!important;color:#000!important;box-shadow:none!important;text-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}abbr[title]:after{content:" (" attr(title) ")"}.ir a:after,a[href^="javascript:"]:after,a[href^="#"]:after{content:""}pre,blockquote{border:1px solid #999;page-break-inside:avoid}thead{display:table-header-group}tr,img{page-break-inside:avoid}img{max-width:100%!important}@page{margin:.5cm}p,h2,h3{orphans:3;widows:3}h2,h3{page-break-after:avoid}}
