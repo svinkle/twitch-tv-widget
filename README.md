@@ -1,9 +1,5 @@
 #Twitch.tv Widget
 
-##UPDATE:
-
-**This widget is obsolete.** Please go to, [Streambadge.com](http://streambadge.com) instead. Included is the same iFrame based widget as well as an Image based widget option.
-
 ##ABOUT:
 
 A simple widget to check to see if a user is streaming on [Twitch.tv](http://twitch.tv). If true the widget displays the game name and viewer count.
