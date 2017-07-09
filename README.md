@@ -9,9 +9,9 @@ A simple widget to check to see if a user is streaming on [Twitch.tv](https://tw
 Add to your web site or blog like so:
 
 <pre><code>
-&lt;iframe src="https://svinkle.github.com/twitch-tv-widget/?username=[YOUR USERNAME]" width="100%" height="64" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;iframe src="https://svinkle.github.io/twitch-tv-widget/?username=[YOUR USERNAME]" width="100%" height="64" frameborder="0"&gt;&lt;/iframe&gt;
 </code></pre>
 
 ## TRY IT:
 
-[Try it out here](https://svinkle.github.com/twitch-tv-widget/?username=)
+[Try it out here](https://svinkle.github.io/twitch-tv-widget/?username=)
