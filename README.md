@@ -15,3 +15,7 @@ Add to your web site or blog like so:
 ## TRY IT:
 
 [Try it out here](https://svinkle.github.io/twitch-tv-widget/?username=)
+
+## License
+
+This project and its source code is licensed under the [MIT](LICENSE.txt) license.
